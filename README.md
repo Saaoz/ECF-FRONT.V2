@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Note pour le moment réaliser en français des fautes d'ortographe seront beaucoup car c'est un peu système de note de suivis sur la création du projet et les étapes que j'ai suivis : 
 # Getting Started with Create React App
 
@@ -24,3 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 J'ai commencer par crée un petit trello pour me faire un résumé des taches important + l'odre des taches à réaliser .
 
 J'ai commencer aujourdui le 25/06/23 par la création des pages et l'installation des dépendences que je trouve importante et que je vais sans doute utiliser pendant le projet je ferais sans doute un tri a la fin des npm inutile que j'aurais installer 
+=======
+# ECF-FRONT.V2
+Projet front ECF V2
+>>>>>>> be5d131b052efadcd9a1fd5d5ff4bd4416cbdcd6
