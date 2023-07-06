@@ -24,7 +24,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 J'ai commencer par crée un petit trello pour me faire un résumé des taches important + l'odre des taches à réaliser .
 
-J'ai commencer aujourdui le 25/06/23 par la création des pages et l'installation des dépendences que je trouve importante et que je vais sans doute utiliser pendant le projet je ferais sans doute un tri a la fin des npm inutile que j'aurais installer 
+
 =======
 # ECF-FRONT.V2
 Projet front ECF V2
